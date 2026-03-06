@@ -15,12 +15,6 @@ This project was created as a learning exercise to explore **Unity physics, the 
 * Character **flip based on movement direction**
 * Animation control using **Animator**
 
-### Combat System
-
-* Attack triggered via **Unity Input System**
-* Attack **hit detection using OverlapCircle**
-* Damage applied to enemies within attack range
-
 ### Enemy System
 
 * Basic enemy with **health system**
@@ -90,6 +84,17 @@ You can download and play the prototype here:
 
 ---
 
+## 🎮 Controls
+
+| Action         | Input                  |
+| -------------- | ---------------------- |
+| Move Left      | **A**                  |
+| Move Right     | **D**                  |
+| Attack         | **Left Mouse Button**  |
+| Invert Gravity | **Right Mouse Button** |
+
+---
+
 # 🎯 Learning Goals
 
 * Understanding Unity's **physics-based movement**
@@ -116,3 +121,4 @@ Possible extensions for this prototype:
 # 📜 License
 
 This project is intended for **learning and portfolio purposes**.
+
