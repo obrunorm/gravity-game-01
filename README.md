@@ -4,11 +4,7 @@ A small **2D gameplay prototype built with Unity** focused on implementing core 
 
 This project was created as a learning exercise to explore **Unity physics, the new Input System, and basic combat mechanics**.
 
-![Game Preview](
-
 https://github.com/user-attachments/assets/babc6f6f-a5d9-467a-9ba3-5e2fc08e2dc2
-
-)
 
 ---
 
@@ -127,5 +123,6 @@ Possible extensions for this prototype:
 # 📜 License
 
 This project is intended for **learning and portfolio purposes**.
+
 
 
